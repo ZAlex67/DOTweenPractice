@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\TextChanger.cs",
               "ToolTip": "D:\\MyUnityProject\\DOTweenPractice\\Assets\\Scripts\\TextChanger.cs",
               "RelativeToolTip": "Assets\\Scripts\\TextChanger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T02:39:31.308Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ColorChanger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:27:53.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T02:27:53.721Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Scaler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:22:47.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T02:22:47.498Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Rotator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:59:34.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:59:34.06Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Mover.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:19:53.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:19:53.073Z"
             }
           ]
         }
