@@ -244,6 +244,8 @@ MonoBehaviour:
   _rotation: {x: 0, y: 360, z: 0}
   _duration: 1
   _rotateMode: 1
+  _repeats: -1
+  _loopType: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -539,6 +541,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _scale: {x: 3, y: 3, z: 3}
   _duration: 3
+  _repeats: -1
+  _loopType: 1
 --- !u!114 &888520899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -554,6 +558,8 @@ MonoBehaviour:
   _rotation: {x: 0, y: 360, z: 0}
   _duration: 3
   _rotateMode: 1
+  _repeats: -1
+  _loopType: 1
 --- !u!114 &888520900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -568,6 +574,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _position: {x: -3.74, y: 1.94, z: 10}
   _duration: 3
+  _repeats: -1
+  _loopType: 1
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,6 +897,8 @@ MonoBehaviour:
   _meshRenderer: {fileID: 1212190321}
   _color: {r: 1, g: 0, b: 0, a: 0}
   _duration: 3
+  _repeats: -1
+  _loopType: 1
 --- !u!1 &1270465578
 GameObject:
   m_ObjectHideFlags: 0
@@ -1090,6 +1100,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _scale: {x: 3, y: 3, z: 3}
   _duration: 3
+  _repeats: -1
+  _loopType: 1
 --- !u!1 &1487079610
 GameObject:
   m_ObjectHideFlags: 0
@@ -1124,6 +1136,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _position: {x: 8.9, y: 1.35, z: 10}
   _duration: 3
+  _repeats: -1
+  _loopType: 1
 --- !u!135 &1487079612
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1325,6 +1339,8 @@ MonoBehaviour:
   _text2: {fileID: 1270465579}
   _text3: {fileID: 1742974844}
   _duration: 3
+  _repeats: -1
+  _loopType: 1
 --- !u!114 &1921947517
 MonoBehaviour:
   m_ObjectHideFlags: 0

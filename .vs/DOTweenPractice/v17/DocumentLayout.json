@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|d:\\myunityproject\\dotweenpractice\\assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|D:\\MyUnityProject\\DOTweenPractice\\assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|d:\\myunityproject\\dotweenpractice\\assets\\scripts\\scaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|D:\\MyUnityProject\\DOTweenPractice\\assets\\scripts\\scaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|d:\\myunityproject\\dotweenpractice\\assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|D:\\MyUnityProject\\DOTweenPractice\\assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|d:\\myunityproject\\dotweenpractice\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|D:\\MyUnityProject\\DOTweenPractice\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FFFA119-9842-BCF4-5A8E-77E86C03EA15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\TextChanger.cs",
               "ToolTip": "D:\\MyUnityProject\\DOTweenPractice\\Assets\\Scripts\\TextChanger.cs",
               "RelativeToolTip": "Assets\\Scripts\\TextChanger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T02:39:31.308Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ColorChanger.cs",
               "ToolTip": "D:\\MyUnityProject\\DOTweenPractice\\Assets\\Scripts\\ColorChanger.cs",
               "RelativeToolTip": "Assets\\Scripts\\ColorChanger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T02:27:53.721Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scaler.cs",
               "ToolTip": "D:\\MyUnityProject\\DOTweenPractice\\Assets\\Scripts\\Scaler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Scaler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T02:22:47.498Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotator.cs",
               "ToolTip": "D:\\MyUnityProject\\DOTweenPractice\\Assets\\Scripts\\Rotator.cs",
               "RelativeToolTip": "Assets\\Scripts\\Rotator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T01:59:34.06Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mover.cs",
               "ToolTip": "D:\\MyUnityProject\\DOTweenPractice\\Assets\\Scripts\\Mover.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mover.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T01:19:53.073Z",
               "EditorCaption": ""
